@@ -2,7 +2,7 @@
 Bluetooth Based Home Automation System Simulation on Proteus using Arduino Code
 
 ## ABSTRACT:
-The Bluetooth-based home automation system is an innovative solution that utilizes Arduino and Proteus simulation to control various household appliances wirelessly. This system allows users to control devices such as lights, fans, and electronic appliances through a smartphone or other Bluetooth-enabled devices. The objective of this project is to provide convenience, energy efficiency, and increased security in home automation.
+The Bluetooth-based home automation system is an innovative solution that utilizes Arduino and Proteus simulation to control various household appliances wirelessly. This system allows users to control devices such as lixghts, fans, and electronic appliances through a smartphone or other Bluetooth-enabled devices. The objective of this project is to provide convenience, energy efficiency, and increased security in home automation.
 
 ## INTRODUCTION:
 Home automation systems have gained significant popularity due to their ability to enhance comfort, convenience, and energy efficiency. The use of Bluetooth technology in home automation provides a wireless and user-friendly approach to control various appliances within a household. This project aims to simulate a Bluetooth-based home automation system using Arduino and Proteus. The system will enable users to remotely control appliances, monitor their status, and receive real-time updates through a smartphone application.
