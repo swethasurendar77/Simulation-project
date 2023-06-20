@@ -7,6 +7,7 @@ The Bluetooth-based home automation system is an innovative solution that utiliz
 ## INTRODUCTION:
 Home automation systems have gained significant popularity due to their ability to enhance comfort, convenience, and energy efficiency. The use of Bluetooth technology in home automation provides a wireless and user-friendly approach to control various appliances within a household. This project aims to simulate a Bluetooth-based home automation system using Arduino and Proteus. The system will enable users to remotely control appliances, monitor their status, and receive real-time updates through a smartphone application.
 
+
 ## LITERATURE REVIEW:
 Several studies have explored the implementation of home automation systems using Bluetooth technology. For instance, researchers have utilized Arduino boards and Bluetooth modules to establish communication between devices and create a centralized control system. Various smartphone applications have also been developed to provide intuitive interfaces for users to interact with their home automation systems.
 
